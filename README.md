@@ -1,9 +1,9 @@
 ### Email Subscription Analysis
 
-##### Introduction
+#### Introduction
 Email Subscription Analysis is a Python script for a client that takes three CRM data exports and transforms them into the requested data tables.
 
-##### Instructions
+#### Instructions
 In order to run the script, the user needs to install Python and the Python library pandas. Click [here](https://www.anaconda.com/products/distribution) to download Anaconda, the most popular Python distribution platform that comes with pandas.
 
 Instructions:
