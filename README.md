@@ -1,4 +1,4 @@
-### Email Subscription Analysis
+### Email Subscription ETL
 
 #### Introduction
 Email Subscription Analysis is a Python script for a client that takes three CRM data exports and transforms them into the requested data tables.
